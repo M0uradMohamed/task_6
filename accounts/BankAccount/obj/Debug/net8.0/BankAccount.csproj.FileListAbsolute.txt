@@ -1,0 +1,14 @@
+C:\Users\mordhau\source\repos\BankAccount\bin\Debug\net8.0\BankAccount.exe
+C:\Users\mordhau\source\repos\BankAccount\bin\Debug\net8.0\BankAccount.deps.json
+C:\Users\mordhau\source\repos\BankAccount\bin\Debug\net8.0\BankAccount.runtimeconfig.json
+C:\Users\mordhau\source\repos\BankAccount\bin\Debug\net8.0\BankAccount.dll
+C:\Users\mordhau\source\repos\BankAccount\bin\Debug\net8.0\BankAccount.pdb
+C:\Users\mordhau\source\repos\BankAccount\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mordhau\source\repos\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\mordhau\source\repos\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+C:\Users\mordhau\source\repos\BankAccount\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\mordhau\source\repos\BankAccount\obj\Debug\net8.0\BankAccount.dll
+C:\Users\mordhau\source\repos\BankAccount\obj\Debug\net8.0\refint\BankAccount.dll
+C:\Users\mordhau\source\repos\BankAccount\obj\Debug\net8.0\BankAccount.pdb
+C:\Users\mordhau\source\repos\BankAccount\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
+C:\Users\mordhau\source\repos\BankAccount\obj\Debug\net8.0\ref\BankAccount.dll

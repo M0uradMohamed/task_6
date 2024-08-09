@@ -1,0 +1,14 @@
+C:\Users\mordhau\source\repos\genericsMethod\obj\Debug\net8.0\genericsMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mordhau\source\repos\genericsMethod\obj\Debug\net8.0\genericsMethod.AssemblyInfoInputs.cache
+C:\Users\mordhau\source\repos\genericsMethod\obj\Debug\net8.0\genericsMethod.AssemblyInfo.cs
+C:\Users\mordhau\source\repos\genericsMethod\obj\Debug\net8.0\genericsMethod.csproj.CoreCompileInputs.cache
+C:\Users\mordhau\source\repos\genericsMethod\bin\Debug\net8.0\genericsMethod.exe
+C:\Users\mordhau\source\repos\genericsMethod\bin\Debug\net8.0\genericsMethod.deps.json
+C:\Users\mordhau\source\repos\genericsMethod\bin\Debug\net8.0\genericsMethod.runtimeconfig.json
+C:\Users\mordhau\source\repos\genericsMethod\bin\Debug\net8.0\genericsMethod.dll
+C:\Users\mordhau\source\repos\genericsMethod\bin\Debug\net8.0\genericsMethod.pdb
+C:\Users\mordhau\source\repos\genericsMethod\obj\Debug\net8.0\genericsMethod.dll
+C:\Users\mordhau\source\repos\genericsMethod\obj\Debug\net8.0\refint\genericsMethod.dll
+C:\Users\mordhau\source\repos\genericsMethod\obj\Debug\net8.0\genericsMethod.pdb
+C:\Users\mordhau\source\repos\genericsMethod\obj\Debug\net8.0\genericsMethod.genruntimeconfig.cache
+C:\Users\mordhau\source\repos\genericsMethod\obj\Debug\net8.0\ref\genericsMethod.dll
