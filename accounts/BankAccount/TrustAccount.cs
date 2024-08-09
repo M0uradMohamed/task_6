@@ -2,7 +2,6 @@
 {
     internal class TrustAccount : SavingsAccount
     {
-        private int defaultYear = 2024;
          private int nowyear = DateTime.Now.Year;
          private int triesCount = 3;
 
@@ -27,12 +26,12 @@
 
             if (Balance - amount >= 0 && amount <= (0.2 * Balance) && triesCount >0)
             {
-                triesCount--;
-                if(nowyear != defaultYear)
+                if(nowyear != DateTime.Now.Year)
                 {
                     triesCount = 3;
-                    defaultYear = nowyear;
+                    nowyear = DateTime.Now.Year;
                 }
+                triesCount--;
                 return base.Withdraw(amount);
             }
             else
